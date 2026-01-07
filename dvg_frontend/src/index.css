@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Настройки сетки Masonry */
+.my-masonry-grid {
+  display: -webkit-box; /* Not needed if using flex */
+  display: -ms-flexbox; /* Not needed if using flex */
+  display: flex;
+  margin-left: -30px; /* Отступ между колонками */
+  width: auto;
+}
+.my-masonry-grid_column {
+  padding-left: 30px; /* Отступ между колонками */
+  background-clip: padding-box;
+}
+
+/* Стили для элементов внутри сетки */
+.my-masonry-grid_column > div { 
+  margin-bottom: 30px;
+}
+
+/* Главный контейнер сетки */
+.my-masonry-grid {
+  display: flex;
+  margin-left: -16px; /* Отрицательный отступ, чтобы компенсировать padding колонок */
+  width: auto;
+}
+
+/* Колонки сетки */
+.my-masonry-grid_column {
+  padding-left: 16px; /* Расстояние между колонками */
+  background-clip: padding-box;
+}
+
+/* Отступ между карточками по вертикали */
+.my-masonry-grid_column > div {
+  margin-bottom: 16px;
+}

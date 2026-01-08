@@ -1,7 +1,5 @@
-content
 *.zip
 *.rar
-*.json
 
 
 # dependencies

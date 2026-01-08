@@ -3,7 +3,7 @@ import { Feed } from "./components/feed";
 import { PinPage } from "./components/PinPage";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Sidebar from "./components/Sidebar";
-import { DarkButton } from "./components/CoolVenomEffect";
+import { FindLine } from "./components/FindLine";
 
 function App() {
   const [items, setItems] = useState([]); // Состояние, где будут лежать наши арты
@@ -20,7 +20,7 @@ function App() {
     <Router>
       <div className="flex min-h-screen bg-gray-50">
         <Sidebar />
-        <main className="flex-1 p-6">
+        <main className="flex-1">
           <Routes>
             <Route path="/" element={<Feed items={items} />} />
             <Route path="/pin/:id" element={<PinPage items={items} />} />

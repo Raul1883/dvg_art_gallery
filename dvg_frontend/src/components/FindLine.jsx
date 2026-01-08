@@ -24,15 +24,7 @@ export function FindLine() {
 
       {/* Иконка уведомлений (как в Pinterest) */}
       <button className="p-2 hover:bg-gray-100 rounded-full transition">
-        <svg
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-          fill="currentColor"
-          className="text-gray-500"
-        >
-          <path d="M12 24c-1.1 0-2-.9-2-2h4c0 1.1-.9 2-2 2zm6-6v-5c0-3.07-1.63-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v2.68C7.63 7.36 6 9.92 6 13v5l-2 2v1h16v-1l-2-2z" />
-        </svg>
+        <img src="./user.png" className="w-10 rounded-full"/>
       </button>
     </header>
   );

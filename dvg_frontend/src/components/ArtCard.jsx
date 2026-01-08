@@ -9,7 +9,7 @@ export function ArtCard({ data }) {
       <div className="relative overflow-hidden rounded-2xl bg-gray-100 transition-all duration-300">
         {/* Превью изображения */}
         <img 
-          src={`/content/${data.id}/${data.assets.thumb}`} 
+          src={`./content/${data.id}/${data.assets.thumb}`} 
           alt={data.image_name || "Art"}
           className="w-full h-auto block transition-transform duration-500 group-hover:scale-105"
           loading="lazy"

@@ -10,7 +10,7 @@ function App() {
 
   useEffect(() => {
     // Этот код сработает ОДИН раз при загрузке сайта
-    fetch("/db.json")
+    fetch("./db.json")
       .then((response) => response.json())
       .then((data) => setItems(data))
       .catch((err) => console.error("Ошибка загрузки JSON:", err));

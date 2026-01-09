@@ -17,7 +17,7 @@ export function PinPage({ items }) {
   if (!item) return <div className="p-10 text-center">Загрузка...</div>;
 
   return (
-    <div className="min-h-screen md:h-screen bg-white dark:bg-zinc-950 flex flex-col md:flex-row overflow-y-auto md:overflow-hidden relative">
+    <div className="min-h-screen md:h-screen flex flex-col md:flex-row overflow-y-auto md:overflow-hidden relative">
       <Link
         to="/"
         className="absolute top-6 left-6 z-50 flex items-center justify-center w-10 h-10 bg-white/80 dark:bg-zinc-800/80 backdrop-blur-md rounded-full shadow-lg text-gray-700 dark:text-white hover:scale-110 transition-all border border-gray-100 dark:border-zinc-700"
@@ -27,7 +27,7 @@ export function PinPage({ items }) {
       </Link>
 
       {/* ЛЕВЫЙ БЛОК: Фиксированный */}
-      <div className="md:w-[60%] lg:w-[50%] h-full bg-gray-50 dark:bg-zinc-900 flex flex-col border-r border-gray-100 dark:border-zinc-800 flex-shrink-0">
+      <div className="md:w-[60%] lg:w-[50%] h-full   flex flex-col dark:border-zinc-800 flex-shrink-0">
         <div className="min-h-0 flex flex-col items-center justify-start p-4">
           <PhotoProvider
           maskOpacity={0.7}
@@ -45,7 +45,7 @@ export function PinPage({ items }) {
         </div>
 
         {/* ИНФО-БЛОК*/}
-        <div className="p-6 pt-2 bg-gray-50 dark:bg-zinc-900">
+        <div className="p-6 pt-2">
           <div className="max-w-full">
             <h1 className="text-xl font-bold mb-1 text-gray-900 dark:text-white leading-tight">
               {item.image_name || "Без названия"}
@@ -73,7 +73,7 @@ export function PinPage({ items }) {
         </div>
       </div>
 
-      <div className="flex-1 min-w-0 h-full overflow-y-auto bg-white dark:bg-zinc-950">
+      <div className="flex-1 min-w-0 h-full overflow-y-auto bg-white dark:bg-zinc-900">
         <div className="p-4">
           <Masonry
             breakpointCols={{ default: 3, 1100: 2, 700: 1 }}

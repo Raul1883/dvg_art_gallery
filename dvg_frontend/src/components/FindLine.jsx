@@ -1,11 +1,11 @@
 export function FindLine() {
   return (
-    <header className="flex items-center px-4 py-3 gap-3 w-full bg-gray-50">
+    <header className="flex items-center px-4 py-3 gap-3 w-full">
       {/* Контейнер строки поиска */}
-      <div className="flex-1 flex items-center bg-[#e9e9e9] hover:bg-[#e1e1e1] transition-colors duration-200 px-4 py-2.5 rounded-xl group">
+      <div className="flex-1 flex items-center bg-zinc-200 dark:bg-zinc-600 dark:hover:bg-zinc-500 hover:bg-zinc-300 transition-colors duration-200 px-4 py-2.5 rounded-xl group">
         {/* Иконка лупы (SVG) */}
         <svg
-          className="text-gray-500 mr-2"
+          className="text-zinc-500 dark:text-zinc-400 mr-2"
           width="16"
           height="16"
           fill="currentColor"
@@ -18,13 +18,12 @@ export function FindLine() {
         <input
           type="text"
           placeholder="Поиск"
-          className="bg-transparent border-none outline-none w-full text-base placeholder-gray-600 text-black"
+          className="bg-transparent border-none outline-none w-full text-base placeholder-zinc-600 dark:placeholder-zinc-400 text-black dark:text-zinc-300"
         />
       </div>
 
-      {/* Иконка уведомлений (как в Pinterest) */}
-      <button className="p-2 hover:bg-gray-100 rounded-full transition">
-        <img src="./user.png" className="w-10 rounded-full"/>
+      <button className="p-2 hover:bg-zinc-200 dark:hover:bg-zinc-500  rounded-full transition">
+        <img src="./user.png" className="w-10 rounded-full dark:opacity-70" />
       </button>
     </header>
   );

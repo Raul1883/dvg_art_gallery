@@ -20,7 +20,21 @@ export function DarkButton() {
   }, [isDark]);
 
   return (
-    <button className="dark:text-white mt-auto mb-8 hover:opacity-70" onClick={() => setIsDark(!isDark)}>
+    <button
+      onClick={() => setIsDark(!isDark)}
+      className="mt-auto mb-8 w-8 h-8 bg-contain bg-no-repeat bg-center hover:opacity-70 transition-opacity"
+      style={{
+        backgroundImage: `url(${isDark ? "./dark_on.png" : "./dark_off.png"})`,
+      }}
+      aria-label="Toggle theme"
+    />
+  );
+
+  return (
+    <button
+      className="dark:text-white mt-auto mb-8 hover:opacity-70"
+      onClick={() => setIsDark(!isDark)}
+    >
       <svg
         viewBox="0 0 24 24"
         fill="none"

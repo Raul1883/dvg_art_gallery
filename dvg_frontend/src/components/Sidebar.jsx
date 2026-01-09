@@ -1,4 +1,3 @@
-import { Home } from "lucide-react";
 import { DarkButton } from "./CoolVenomEffect";
 import { Link } from "react-router-dom";
 
@@ -16,7 +15,6 @@ const Sidebar = () => {
         <svg
           aria-hidden="true"
           aria-label=""
-          class="aTSQd5 hL9n03 _ByyDT"
           height="24"
           role="img"
           viewBox="0 0 24 24"

@@ -2,6 +2,7 @@ import { useParams, Link } from "react-router-dom";
 import { PhotoProvider, PhotoView } from "react-photo-view";
 import "react-photo-view/dist/react-photo-view.css";
 import Masonry from "react-masonry-css";
+import { Description } from "./Description";
 
 export function PinPage({ items }) {
   const { id } = useParams();
@@ -30,9 +31,9 @@ export function PinPage({ items }) {
       <div className="md:w-[60%] lg:w-[50%] h-full   flex flex-col dark:border-zinc-800 flex-shrink-0">
         <div className="min-h-0 flex flex-col items-center justify-start p-4">
           <PhotoProvider
-          maskOpacity={0.7}
-          toolbarRender={() => null}
-          bannerVisible={false}
+            maskOpacity={0.7}
+            toolbarRender={() => null}
+            bannerVisible={false}
           >
             <PhotoView src={`./content/${item.id}/${item.assets.main}`}>
               <img
@@ -45,32 +46,7 @@ export function PinPage({ items }) {
         </div>
 
         {/* ИНФО-БЛОК*/}
-        <div className="p-6 pt-2">
-          <div className="max-w-full">
-            <h1 className="text-xl font-bold mb-1 text-gray-900 dark:text-white leading-tight">
-              {item.image_name || "Без названия"}
-            </h1>
-
-            <p className="text-xs text-gray-500 dark:text-zinc-400 mb-4 line-clamp-3">
-              {item.description}
-            </p>
-
-            <div className="flex items-center border-t border-gray-200 dark:border-zinc-800 pt-4">
-              <img
-                src={`./content/${item.id}/${item.assets.avatar}`}
-                className="w-8 h-8 rounded-full object-cover mr-3"
-              />
-              <div className="overflow-hidden">
-                <h2 className="text-xs font-bold text-gray-900 dark:text-white truncate">
-                  {item.author}
-                </h2>
-                <p className="text-[9px] uppercase tracking-tighter text-gray-400">
-                  Автор контента
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
+        <Description item={item} />
       </div>
 
       <div className="flex-1 min-w-0 h-full overflow-y-auto bg-white dark:bg-zinc-900">

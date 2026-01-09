@@ -1,4 +1,4 @@
-import { Home, Moon } from "lucide-react";
+import { Home} from "lucide-react";
 import { DarkButton } from "./CoolVenomEffect";
 import { Link } from "react-router-dom";
 

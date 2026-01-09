@@ -7,7 +7,7 @@ from PIL import Image
 
 # --- КОНФИГУРАЦИЯ ---
 SOURCE_DIR = Path("./in_data")  # Исходные архивы
-OUTPUT_DIR = Path("./content")  # Готовые данные для S3
+OUTPUT_DIR = Path("./out_data")  # Готовые данные для S3
 DB_PATH = Path("./db.json")  # Файл базы данных
 SEVEN_ZIP_PATH = r"C:\Program Files\7-Zip\7z.exe"
 
@@ -70,7 +70,8 @@ def parse_metadata(inf_path: Path) -> dict:
     return {
         "title": lines[0] if len(lines) > 0 else "Untitled",
         "desc": lines[1] if len(lines) > 1 else "",
-        "nick": lines[2] if len(lines) > 2 else "Anonymous"
+        "nick": lines[2] if len(lines) > 2 else "Anonymous",
+        "link": lines[3] if len(lines) > 3 else ""
     }
 
 
@@ -155,6 +156,7 @@ def main():
                 "image_name": metadata["title"],
                 "description": metadata["desc"],
                 "author": metadata["nick"],
+                "author_link": metadata["link"],
                 "assets": assets
             })
 

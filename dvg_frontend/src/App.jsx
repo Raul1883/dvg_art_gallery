@@ -6,10 +6,10 @@ import Sidebar from "./components/Sidebar";
 import { FindLine } from "./components/FindLine";
 
 function App() {
-  const [items, setItems] = useState([]); // Состояние, где будут лежать наши арты
+  const [items, setItems] = useState([]);
+  const [searchQuery, setSearchQuery] = useState(""); // Состояние поиска
 
   useEffect(() => {
-    // Этот код сработает ОДИН раз при загрузке сайта
     fetch("./db.json")
       .then((response) => response.json())
       .then((data) => setItems(data))
@@ -22,7 +22,16 @@ function App() {
         <Sidebar />
         <main className="flex-1">
           <Routes>
-            <Route path="/" element={<Feed items={items} />} />
+            <Route
+              path="/"
+              element={
+                <Feed
+                  items={items}
+                  searchQuery={searchQuery}
+                  setSearchQuery={setSearchQuery}
+                />
+              }
+            />
             <Route path="/pin/:id" element={<PinPage items={items} />} />
           </Routes>
         </main>

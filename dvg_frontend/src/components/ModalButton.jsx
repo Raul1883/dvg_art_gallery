@@ -19,9 +19,8 @@ export function ModalButton({ src, mobile, className }) {
         {src}
       </button>
 
-      {/* Модальное окно (Overlay) */}
 
-      {isOpen && <AboutModal onClose={toggleModal} />}
+      {isOpen && <AboutModal onClose={toggleModal} darkButtonVisibility={darkButtonVisibility}/>}
     </div>
   );
 }

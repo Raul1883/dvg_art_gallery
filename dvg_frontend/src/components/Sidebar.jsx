@@ -1,7 +1,13 @@
 import { DarkButton } from "./CoolVenomEffect";
 import { Link } from "react-router-dom";
+import React, { useState } from "react";
+import { createPortal } from "react-dom";
 
 const Sidebar = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  // Функция для переключения модалки
+  const toggleModal = () => setIsOpen(!isOpen);
   return (
     <aside className="w-72px border-r border-zinc-200 dark:border-zinc-500 sticky top-0 h-screen hidden md:flex flex-col items-center items-center">
       <a href="https://t.me/drawwithgood">
@@ -15,10 +21,10 @@ const Sidebar = () => {
         <svg
           aria-hidden="true"
           aria-label=""
-          height="24"
+          height="30"
+          width="30"
           role="img"
           viewBox="0 0 24 24"
-          width="24"
         >
           <path
             fill="currentColor"
@@ -26,7 +32,94 @@ const Sidebar = () => {
           ></path>
         </svg>
       </Link>
-      <DarkButton />
+
+      <div className="relative">
+        <button
+          onClick={toggleModal}
+          className="p-2 pt-4 dark:text-white hover:opacity-70 rounded-full transition"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="30"
+            height="30"
+            viewBox="0 0 24 24"
+            fill="none"
+          >
+            <path
+              d="M12 17.75C12.4142 17.75 12.75 17.4142 12.75 17V11C12.75 10.5858 12.4142 10.25 12 10.25C11.5858 10.25 11.25 10.5858 11.25 11V17C11.25 17.4142 11.5858 17.75 12 17.75Z"
+              fill="currentColor"
+            />
+            <path
+              d="M12 7C12.5523 7 13 7.44772 13 8C13 8.55228 12.5523 9 12 9C11.4477 9 11 8.55228 11 8C11 7.44772 11.4477 7 12 7Z"
+              fill="currentColor"
+            />
+            <path
+              clip-rule="evenodd"
+              d="M1.25 12C1.25 6.06294 6.06294 1.25 12 1.25C17.9371 1.25 22.75 6.06294 22.75 12C22.75 17.9371 17.9371 22.75 12 22.75C6.06294 22.75 1.25 17.9371 1.25 12ZM12 2.75C6.89137 2.75 2.75 6.89137 2.75 12C2.75 17.1086 6.89137 21.25 12 21.25C17.1086 21.25 21.25 17.1086 21.25 12C21.25 6.89137 17.1086 2.75 12 2.75Z"
+              fill="currentColor"
+            />
+          </svg>
+        </button>
+
+        {/* Модальное окно (Overlay) */}
+
+        {isOpen &&
+          createPortal(
+            <div
+              className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm"
+              onClick={toggleModal}
+            >
+              <div
+                className="bg-white dark:bg-zinc-800 p-6 rounded-2xl shadow-xl sm:w-[90%] md:w-[80%] max-w-2xl mx-4"
+                onClick={(e) => e.stopPropagation()}
+              >
+
+                <h2 className="text-xl font-bold mb-4 dark:text-white">
+                  Об авторах
+                </h2>
+                <div className="relative flex flex-col md:flex-row">
+                  {/* Левый блок: Текст (теперь он главный и диктует высоту) */}
+                  <div className="flex-1">
+                    <h3 className="text-zinc-600 dark:text-zinc-300">
+                      Арты созданы в рамках флешмоба сообщества{" "}
+                      <a href="https://t.me/drawwithgood">
+                        <b>Draw With Good</b>
+                      </a>
+                    </h3>
+                    <p className="text-zinc-600 dark:text-zinc-300 pt-4">
+                      <b>Представляем вам новый флешмоб!</b> <br />В этот раз мы
+                      поместили нашего стримера в разные эстетики, изобразив
+                      свое виденье в множестве работ, которые вы можете
+                      посмотреть не просто на пинтересте, ведь зачем он нам,
+                      если у нас уже есть свой <b>ПИНТЕРЕСТ ДОМА</b>.
+                    </p>
+                  </div>
+
+                  {/* Правый блок: QR-код (подстраивается под высоту соседа) */}
+                  <div className="hidden md:block w-[40%] relative">
+                    <div className="absolute inset-0 flex items-center justify-center">
+                      <img
+                        src="./qr.png"
+                        className="max-h-full max-w-full object-contain"
+                        alt="QR Code"
+                      />
+                    </div>
+                  </div>
+                </div>
+
+                <button
+                  onClick={toggleModal}
+                  className="mt-6 w-full py-2 bg-zinc-900 dark:bg-zinc-100 dark:text-zinc-900 text-white rounded-lg hover:opacity-90 transition"
+                >
+                  Пинтерест дома
+                </button>
+              </div>
+            </div>,
+            document.body // Рендерим напрямую в body
+          )}
+      </div>
+
+      <DarkButton className="mt-auto mb-8"/>
     </aside>
   );
 };

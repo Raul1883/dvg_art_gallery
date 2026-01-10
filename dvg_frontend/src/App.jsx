@@ -3,7 +3,6 @@ import { Feed } from "./components/feed";
 import { PinPage } from "./components/PinPage";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Sidebar from "./components/Sidebar";
-import { FindLine } from "./components/FindLine";
 
 function App() {
   const [items, setItems] = useState([]);
@@ -18,6 +17,7 @@ function App() {
 
   return (
     <Router>
+      <div id="portal"></div>
       <div className="flex min-h-screen dark:bg-zinc-800 bg-zinc-50">
         <Sidebar />
         <main className="flex-1">

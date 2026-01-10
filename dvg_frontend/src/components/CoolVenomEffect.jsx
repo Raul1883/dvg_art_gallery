@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Moon } from "lucide-react";
 
-export function DarkButton() {
+export function DarkButton({className = ""}) {
   const [isDark, setIsDark] = useState(
     localStorage.getItem("theme") === "dark" ||
       (!localStorage.getItem("theme") &&
@@ -22,7 +22,7 @@ export function DarkButton() {
   return (
     <button
       onClick={() => setIsDark(!isDark)}
-      className="mt-auto mb-8 w-8 h-8 bg-contain bg-no-repeat bg-center hover:opacity-70 transition-opacity"
+      className={`h-10 aspect-square bg-contain bg-no-repeat bg-center hover:opacity-70 transition-opacity ${className}`}
       style={{
         backgroundImage: `url(${isDark ? "./dark_on.png" : "./dark_off.png"})`,
       }}

@@ -32,7 +32,9 @@ function App() {
   return (
     <Router>
       <div id="portal"></div>
-      {isModalOpen && <AboutModal onClose={closeModal} darkButtonVisibility={"md:hidden"}/>}
+      {isModalOpen && (
+        <AboutModal onClose={closeModal} darkButtonVisibility={"md:hidden"} />
+      )}
       <div className="flex min-h-screen dark:bg-zinc-800 bg-zinc-50">
         <Sidebar />
         <main className="flex-1">
@@ -49,6 +51,9 @@ function App() {
             />
             <Route path="/pin/:id" element={<PinPage items={items} />} />
           </Routes>
+          <div className="flex justify-center pb-4">
+            <a href = "https://t.me/uskvur" className="text-zinc-400 dark:text-zinc-300">dev by raul</a>
+          </div>
         </main>
       </div>
     </Router>

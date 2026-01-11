@@ -24,7 +24,7 @@ export function DarkButton({className = ""}) {
       onClick={() => setIsDark(!isDark)}
       className={`h-10 aspect-square bg-contain bg-no-repeat bg-center hover:opacity-70 transition-opacity ${className}`}
       style={{
-        backgroundImage: `url(${isDark ? "./dark_on.png" : "./dark_off.png"})`,
+        backgroundImage: `url(${isDark ? "./dark_on.webp" : "./dark_off.webp"})`,
       }}
       aria-label="Toggle theme"
     />

@@ -20,3 +20,5 @@ todo
 4. изменить относительные пути к статике на абсолютные. наверное. надо потестить развертывание на s3
 5. дописать авто развертывание
 6. почистить код от извращений
+
+aws --profile yc-dvg --endpoint-url=https://storage.yandexcloud.net s3 sync dvg_frontend/dist s3://dwg-art.ru/ --delete

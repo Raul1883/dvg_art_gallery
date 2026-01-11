@@ -9,8 +9,9 @@ const breakpointColumns = {
 };
 
 export function Feed({ items, searchQuery, setSearchQuery }) {
-const filteredItems = items.filter((item) => {
-    const content = `${item.image_name} ${item.description} ${item.author}`.toLowerCase();
+  const filteredItems = items.filter((item) => {
+    const content =
+      `${item.image_name} ${item.description} ${item.author}`.toLowerCase();
     return content.includes(searchQuery.toLowerCase());
   });
 
@@ -33,9 +34,10 @@ const filteredItems = items.filter((item) => {
         /* Заглушка, если ничего не нашли */
         <div className="flex flex-col items-center justify-center py-20">
           <p className="text-zinc-500 dark:text-zinc-400 text-lg">
-            По запросу <span className="font-bold">"{searchQuery}"</span> ничего не найдено
+            По запросу <span className="font-bold">"{searchQuery}"</span> ничего
+            не найдено
           </p>
-          <button 
+          <button
             onClick={() => setSearchQuery("")}
             className="mt-4 text-red-500 font-medium hover:underline"
           >
@@ -43,6 +45,15 @@ const filteredItems = items.filter((item) => {
           </button>
         </div>
       )}
+
+      <div className="flex justify-center pb-4">
+        <a
+          href="https://t.me/uskvur"
+          className="text-zinc-400 dark:text-zinc-300"
+        >
+          dev by raul
+        </a>
+      </div>
     </div>
   );
 }

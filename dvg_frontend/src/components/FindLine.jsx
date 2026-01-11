@@ -56,7 +56,7 @@ export function FindLine({ onSearchChange, searchValue }) {
           className="active:bg-zinc-800 p-2 hidden md:block rounded-full transition hover:bg-zinc-200"
         >
           <img
-            src="./user.png"
+            src="./user.webp"
             className="w-10 rounded-full dark:opacity-70"
             alt="User"
           />
@@ -68,7 +68,7 @@ export function FindLine({ onSearchChange, searchValue }) {
           mobile={true}
           src={
             <img
-              src="./user.png"
+              src="./user.webp"
               className="w-10 rounded-full dark:opacity-70"
               alt="User"
             />

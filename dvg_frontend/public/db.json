@@ -1,293 +1,1033 @@
 [
   {
-    "id": "f47ddb14-c2e7-4f95-bdf5-f86c1965696b",
+    "id": "afa0ba68-3499-4293-8880-c70882d50e93",
     "image_name": "ultimate gamblecore",
     "description": "99,9%% игроков КВИТАЮТ перед тем как УДАРИТЬ ЭТО БОЛЬШОЙ",
     "author": "11gnat",
-    "author_link":"https://www.google.com/?hl=ru",
+    "author_link": "https://t.me/ignatrobotoeb",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.jpg",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
       ]
     }
   },
   {
-    "id": "319c31dd-0694-4b16-9b05-28eb47eb02bb",
+    "id": "f954fe6a-93e9-4e4c-8d3b-51f63f58f620",
+    "image_name": "Cassette Futurism",
+    "description": "",
+    "author": "3Lobite",
+    "author_link": "https://t.me/Threlobite",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
+      ]
+    }
+  },
+  {
+    "id": "aac9bd1a-ba33-4d1c-840b-731164492aad",
     "image_name": "Pwgd lo-fi art aesthetic",
     "description": "Лофай это типа шип лололошки и вайфая",
     "author": "afma",
-    "author_link":"https://www.google.com/?hl=ru",
+    "author_link": "https://t.me/afmaropol",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.jpg",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg",
-        "ref_10.jpg",
-        "ref_11.jpg",
-        "ref_12.jpg",
-        "ref_13.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp"
       ]
     }
   },
   {
-    "id": "5011bffa-ae64-4f0e-8431-18a1ea153319",
+    "id": "bacf2374-eb45-4dd9-a383-52f5e737f85f",
+    "image_name": "Pwgood bukwalno doomer aesthetic",
+    "description": "Я живу в той квартире с розовым окном",
+    "author": "afma",
+    "author_link": "https://t.me/afmaropol",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
+      ]
+    }
+  },
+  {
+    "id": "c31ff481-846b-42ed-bdab-20f72ceeeb3d",
     "image_name": "poolcore",
     "description": "вечное спокойствие",
     "author": "archest",
-    "author_link":"https://www.google.com/?hl=ru",
+    "author_link": "https://t.me/padikari",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.png",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
       ]
     }
   },
   {
-    "id": "60b8956f-8539-42ba-92e4-45c02337d2ca",
+    "id": "688b2f08-3ac0-4bc6-8f55-53cca21ccd63",
+    "image_name": "pwgood mushroomcore art",
+    "description": "Сначала одеваются так, а потом жалуются, что парни влюбляются в них из-за стокгольмского синдрома и страха перед хтонической сущностью леса и её рифмой с женским началом",
+    "author": "AstroidA",
+    "author_link": "https://t.me/AAstroidAA",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp",
+        "ref_15.webp",
+        "ref_16.webp",
+        "ref_17.webp",
+        "ref_18.webp",
+        "ref_19.webp"
+      ]
+    }
+  },
+  {
+    "id": "01b24409-f77c-4710-894c-7011fbacfc15",
+    "image_name": "Technocore",
+    "description": "",
+    "author": "Bjilka",
+    "author_link": "https://t.me/bjilkas4n",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
+      ]
+    }
+  },
+  {
+    "id": "bb3b7d93-c5cc-448d-aed7-e238683392fb",
+    "image_name": "PWGood Low Poly PS1 art",
+    "description": "Его слова - словно пули из травмата, рифмы режут ухо, как топор психопата",
+    "author": "Bochmak",
+    "author_link": "https://t.me/bochmak",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp",
+        "ref_15.webp"
+      ]
+    }
+  },
+  {
+    "id": "e3f00a74-3fea-47f8-afe0-2ee20f1449ce",
+    "image_name": "★PWGOOD★BIMBOCORE★",
+    "description": "Boring b*thes hate on me to feel better about themselves",
+    "author": "dosochka_mhe",
+    "author_link": "https://t.me/dschkmhhhhh",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp"
+      ]
+    }
+  },
+  {
+    "id": "a6664f1d-496d-4fff-aca5-57d0d68b38da",
+    "image_name": "★PWGOOD★BIMBOCORE★",
+    "description": "Boring b*thes hate on me to feel better about themselves",
+    "author": "dosochka_mhe",
+    "author_link": "https://t.me/dschkmhhhhh",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp"
+      ]
+    }
+  },
+  {
+    "id": "5f8ad285-de3d-4a7a-ad9e-31f7a604c8ad",
+    "image_name": "",
+    "description": "",
+    "author": "Frayn",
+    "author_link": "https://t.me/fraynie",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
+      ]
+    }
+  },
+  {
+    "id": "687b9786-39f3-45a0-b027-2a7f18644d0d",
+    "image_name": "PWgood angelcore",
+    "description": "",
+    "author": "frog.",
+    "author_link": "https://t.me/god_forgive_the_frog",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
+      ]
+    }
+  },
+  {
+    "id": "65c5a5ac-d242-4d23-9d5e-99c193790605",
+    "image_name": "Industrial core",
+    "description": "Ходили слухи среди работников, что трубы словно дышат в этом месте",
+    "author": "Hersh",
+    "author_link": "https://t.me/hershhi",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp"
+      ]
+    }
+  },
+  {
+    "id": "8f89a998-5106-45ad-ad3b-09b652953771",
+    "image_name": "CYBERCORE",
+    "description": "Как вы думаете каким будет будущее? Захватит ли его капитализм?",
+    "author": "JessyJ40",
+    "author_link": "https://t.me/jessyj_40",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp"
+      ]
+    }
+  },
+  {
+    "id": "9e6cf1a7-71c6-4693-afd1-dcde698aea5d",
+    "image_name": "PWGood Spacecore",
+    "description": "Стань моим космосом",
+    "author": "Kaminoka",
+    "author_link": "https://t.me/kaminoka0",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": []
+    }
+  },
+  {
+    "id": "06858961-da76-4577-aea8-6173b740285a",
+    "image_name": "medicalcore",
+    "description": "Шприцы, таблетки, медикаменты 💀",
+    "author": "KamyWek",
+    "author_link": "https://t.me/exaddd",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp"
+      ]
+    }
+  },
+  {
+    "id": "e432b5b6-1dd5-4103-8270-f2589ecd5f5e",
+    "image_name": "Pwgood morute core",
+    "description": "be good be gentle",
+    "author": "kaykee",
+    "author_link": "https://t.me/klarabarbone",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": []
+    }
+  },
+  {
+    "id": "d1ebfdae-eb39-4184-aee6-4c14cc89619c",
+    "image_name": "Кубизм",
+    "description": "перед просмотром советую зарядить себе по голове чем-то тяжёлым",
+    "author": "Keers",
+    "author_link": "https://t.me/ke_eers",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
+      ]
+    }
+  },
+  {
+    "id": "4f3016d5-629b-49ec-b0df-bc93c69461a7",
     "image_name": "pwgood berezacore art",
     "description": "пока смотришь на них они смотрят на тебя",
     "author": "ketchanimator",
-    "author_link":"https://www.google.com/?hl=ru",
+    "author_link": "https://t.me/ketchup_ketch",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.png",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg",
-        "ref_10.jpg",
-        "ref_11.jpg",
-        "ref_12.jpg",
-        "ref_13.jpg",
-        "ref_14.jpg",
-        "ref_15.jpg",
-        "ref_16.jpg",
-        "ref_17.jpg",
-        "ref_18.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp",
+        "ref_15.webp",
+        "ref_16.webp",
+        "ref_17.webp",
+        "ref_18.webp"
       ]
     }
   },
   {
-    "id": "1e2da068-52be-4b0c-aa24-8e7412170d2c",
-    "image_name": "Untitled",
+    "id": "7ff42094-7dc2-413b-b7ab-72036d63b8aa",
+    "image_name": "religioncore",
+    "description": "Не произноси имени Господа, Бога твоего, напрасно, ибо Господь не оставит без наказания того, кто произносит имя Его напрасно.",
+    "author": "kilowhatt",
+    "author_link": "https://t.me/k1lowhat",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp"
+      ]
+    }
+  },
+  {
+    "id": "d96c8cf8-c93a-4ca6-90cf-dd29e443fb09",
+    "image_name": "2000s animecore",
+    "description": "Пвгуд анимел",
+    "author": "Lceenta",
+    "author_link": "https://t.me/Lceenta",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp"
+      ]
+    }
+  },
+  {
+    "id": "c78d7986-cf04-466a-a048-afa3ebf4328c",
+    "image_name": "Pwgood witchcore art",
+    "description": "Witchcore - эстетика, сосредоточенная на темах колдовства, обрядов, сбора трав, изготовления магических атрибутов и зелий. Превращать всех в жаб вполне witchкорно!",
+    "author": "Lentillnz (Линт)",
+    "author_link": "https://t.me/Lentillnzart",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp"
+      ]
+    }
+  },
+  {
+    "id": "256b0f63-a7c6-4e3a-93b6-8b6400b79132",
+    "image_name": "CANDYCORE",
+    "description": "это моя конфета!!",
+    "author": "LPPDM",
+    "author_link": "https://t.me/lppdm",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp"
+      ]
+    }
+  },
+  {
+    "id": "f2ba6d07-ddd5-4b49-b00f-ec73ccbd1dbd",
+    "image_name": "Нуарновое",
     "description": "",
-    "author": "Anonymous",
-    "author_link":"https://www.google.com/?hl=ru",
+    "author": "mabr0n",
+    "author_link": "https://t.me/mabcave",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.png",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg",
-        "ref_10.jpg",
-        "ref_11.jpg",
-        "ref_12.jpg",
-        "ref_13.jpg",
-        "ref_14.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp"
       ]
     }
   },
   {
-    "id": "e2d3c27a-6451-4e65-b012-476feb3c28cc",
-    "image_name": "PWGOOD SIXTH DEMENTION CORE",
-    "description": "",
-    "author": "manch",
-    "author_link":"https://www.google.com/?hl=ru",
+    "id": "9c1f1ca3-1ddf-473b-8991-d2b4dc3fa8b9",
+    "image_name": "silly goober",
+    "description": "i believe that they are among us",
+    "author": "Miruka Wai",
+    "author_link": "https://t.me/miruka_wai",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.png",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg",
-        "ref_10.jpg",
-        "ref_11.jpg",
-        "ref_12.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp",
+        "ref_15.webp",
+        "ref_16.webp",
+        "ref_17.webp",
+        "ref_18.webp",
+        "ref_19.webp"
       ]
     }
   },
   {
-    "id": "afdf288f-4ae5-4bc8-ad28-d4f2394a1101",
+    "id": "40772252-1918-41dc-9c52-0637225492ad",
+    "image_name": "PWGOOD SIXTH DIMENSION CORE",
+    "description": "я з⊠аю чт⊿ в₡ё вз△имосвяза☐о пр⊙сто не мΘгу докаΣать",
+    "author": "m4nch1",
+    "author_link": "https://t.me/m4nch1",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp"
+      ]
+    }
+  },
+  {
+    "id": "31e7a613-4e8b-4c08-975d-344115d2f8b7",
+    "image_name": "PWGood SCENEkid 2010-е",
+    "description": "полное безумие, абсолютное сдвг",
+    "author": "Neeemah",
+    "author_link": "https://t.me/NeeemaChyrish",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp"
+      ]
+    }
+  },
+  {
+    "id": "78739e20-8fb2-4ec4-b426-634bb4ef15ce",
     "image_name": "CORECORE CORECORE",
     "description": "Если у вас всё хорошо, тогда зачем вам скафандры с розовым стеклом?",
     "author": "PozitiSofa",
-    "author_link":"https://www.google.com/?hl=ru",
+    "author_link": "https://t.me/sofasbureau",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.png",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
       ]
     }
   },
   {
-    "id": "9d906acd-fbbd-4d90-9ed1-dd0cf4ab6129",
+    "id": "b24b657e-0d98-45cc-8ba8-5ab02ac24bdb",
     "image_name": "MEATCORE YUMMIE",
     "description": "стримеры как морковь. когда их ешь они умирают",
     "author": "PozitiSofa",
-    "author_link":"https://www.google.com/?hl=ru",
+    "author_link": "https://t.me/sofasbureau",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.png",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
       ]
     }
   },
   {
-    "id": "5dad3596-564b-4728-839c-e0f8c18f1bd7",
+    "id": "a44029da-d848-482c-ab7c-c3d2a2dc5c72",
     "image_name": "SUPER EPIC MLG CORE PWGOOD MINECRAFT EDIT",
     "description": "вы еще не умерли от передоза мемами?",
     "author": "Qwainett",
-    "author_link":"https://www.google.com/?hl=ru",
+    "author_link": "https://t.me/qwainett",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.png",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
       ]
     }
   },
   {
-    "id": "49d58f39-5521-45ba-8527-64cef63a2d08",
+    "id": "17af8297-ae89-4ebb-a329-6c56272087aa",
     "image_name": "immortality core art",
     "description": "Бессмертие здесь дышит сквозь кости и тени — сердце, что отказывается замолкнуть, удерживает мир между жизнью и забвением.",
     "author": "artsosamuzikbaby",
-    "author_link":"https://www.google.com/?hl=ru",
+    "author_link": "https://t.me/artsosamuzikbaby",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.jpg",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg",
-        "ref_10.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp"
       ]
     }
   },
   {
-    "id": "38d72540-d600-48ed-a1f4-e5d91e9a7365",
+    "id": "644b41c5-b0f7-475d-b621-c3748a7fe904",
+    "image_name": "punkcore + darkurbancore",
+    "description": "",
+    "author": "Stamp",
+    "author_link": "https://t.me/Stamp_Mark16",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp"
+      ]
+    }
+  },
+  {
+    "id": "72aa700d-77ff-4d64-9dab-444947bfb0dc",
+    "image_name": "WebCore",
+    "description": "Возможно не стоило включать старый компьютер ?",
+    "author": "Teakstear",
+    "author_link": "https://t.me/teaksteararts",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp"
+      ]
+    }
+  },
+  {
+    "id": "4ed55bac-dea8-4701-afd8-8da5ef6c6ee3",
+    "image_name": "pwgood vaporwave art",
+    "description": "осколки цифровой утопии",
+    "author": "Wellfy",
+    "author_link": "https://t.me/yfllew",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
+      ]
+    }
+  },
+  {
+    "id": "420faed4-0090-4913-a2b4-ed325f28c5e7",
+    "image_name": "в детстве привели в сбербанк",
+    "description": "technozen. если ты не хочешь трогать траву - трава потрогает тебя",
+    "author": "west",
+    "author_link": "https://t.me/westlisXD",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp"
+      ]
+    }
+  },
+  {
+    "id": "b1287b33-1ded-45cd-bc76-53bda65ea7f0",
+    "image_name": "steampunk",
+    "description": "второе видео про потоп мое любимое",
+    "author": "Rain",
+    "author_link": "https://t.me/dowdek",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp"
+      ]
+    }
+  },
+  {
+    "id": "307f486a-ae68-4284-9172-3c520cd69abd",
     "image_name": "PWGood Spacecore",
     "description": "К звёздам из бездны",
     "author": "жемчужная пыль",
-    "author_link":"https://www.google.com/?hl=ru",
+    "author_link": "https://t.me/lucas_yoy",
     "assets": {
-      "main": "main.png",
-      "thumb": "thumb.jpg",
-      "avatar": "avatar.png",
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
       "refs": [
-        "ref_0.jpg",
-        "ref_1.jpg",
-        "ref_2.jpg",
-        "ref_3.jpg",
-        "ref_4.jpg",
-        "ref_5.jpg",
-        "ref_6.jpg",
-        "ref_7.jpg",
-        "ref_8.jpg",
-        "ref_9.jpg",
-        "ref_10.jpg",
-        "ref_11.jpg",
-        "ref_12.jpg",
-        "ref_13.jpg",
-        "ref_14.jpg",
-        "ref_15.jpg"
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp",
+        "ref_15.webp"
+      ]
+    }
+  },
+  {
+    "id": "7e753649-ead8-493d-8243-38da6bcba540",
+    "image_name": "Frutiger PWMetro",
+    "description": "БРОСАЙ РАБОТУ СТРАНЕ НУЖНЫ ДИДЖЕИ",
+    "author": "наув",
+    "author_link": "https://t.me/nauvvbun",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp"
+      ]
+    }
+  },
+  {
+    "id": "d2474e53-5560-475d-8b71-6407c0ea36c9",
+    "image_name": "PWGYARUO/GYARUGOOD",
+    "description": "пвгуд гяру jfashion гяруо aestetic core 2000s 90s magazine",
+    "author": "Chay0ch",
+    "author_link": "https://t.me/GigaChaevaya",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp",
+        "ref_15.webp"
+      ]
+    }
+  },
+  {
+    "id": "0f06f74c-d756-4027-ada9-6aba40272373",
+    "image_name": "Frutiger Aero",
+    "description": "Ready go back to 2000?",
+    "author": "JessyJ40",
+    "author_link": "https://t.me/jessyj_40",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp"
       ]
     }
   }

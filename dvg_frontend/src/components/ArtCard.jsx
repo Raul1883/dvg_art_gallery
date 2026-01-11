@@ -6,7 +6,7 @@ export function ArtCard({ data }) {
       to={`/pin/${data.id}`} 
       className="block w-full mb-4 break-inside-avoid group"
     >
-      <div className="relative overflow-hidden rounded-2xl bg-gray-100 transition-all duration-300">
+      <div className="relative overflow-hidden rounded-2xl transition-all duration-300">
         {/* Превью изображения */}
         <img 
           src={`./content/${data.id}/${data.assets.thumb}`} 

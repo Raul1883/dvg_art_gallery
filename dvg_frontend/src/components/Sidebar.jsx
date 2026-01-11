@@ -15,12 +15,14 @@ export default function Sidebar({}) {
     <aside className="w-72px border-r border-zinc-200 dark:border-zinc-500 sticky top-0 h-screen hidden md:flex flex-col items-center items-center">
       <a href="https://t.me/drawwithgood">
         <img
-          src="./logo.png"
+          src="./logo.webp"
           className="m-4 w-12 h-auto rounded-full hover:opacity-90 hover:bg-gray-200"
         />
       </a>
 
-      <Link className="dark:text-white hover:opacity-70">
+      <Link 
+      to="/"
+      className="dark:text-white hover:opacity-70">
         <svg
           aria-hidden="true"
           aria-label=""

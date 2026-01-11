@@ -51,9 +51,6 @@ function App() {
             />
             <Route path="/pin/:id" element={<PinPage items={items} />} />
           </Routes>
-          <div className="flex justify-center pb-4">
-            <a href = "https://t.me/uskvur" className="text-zinc-400 dark:text-zinc-300">dev by raul</a>
-          </div>
         </main>
       </div>
     </Router>

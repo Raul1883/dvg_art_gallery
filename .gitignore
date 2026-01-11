@@ -1,6 +1,8 @@
 *.zip
 *.rar
 
+# content
+
 
 # dependencies
 /node_modules

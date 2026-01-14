@@ -4,7 +4,6 @@ import { PinPage } from "./components/PinPage";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Sidebar from "./components/Sidebar";
 import { AboutModal } from "./components/AboutModal";
-import { Developer } from "./components/Developer";
 
 function App() {
   const [items, setItems] = useState([]);

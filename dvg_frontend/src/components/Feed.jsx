@@ -1,8 +1,37 @@
-import { Link } from "react-router-dom";
 import { ArtCard } from "./ArtCard";
 import { FindLine } from "./FindLine";
 import { useState, useEffect } from "react";
 import { Developer } from "./Developer";
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
+
+
+function useScrollMemory() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    // 1. При загрузке страницы/смене пути проверяем сохраненный скролл
+    const savedScroll = sessionStorage.getItem(`scroll_${pathname}`);
+    if (savedScroll) {
+      // Небольшая задержка, чтобы контент успел отрендериться
+      setTimeout(() => {
+        window.scrollTo(0, parseInt(savedScroll, 10));
+      }, 0);
+    }
+
+    // 2. Функция для сохранения текущей позиции
+    const handleScroll = () => {
+      sessionStorage.setItem(`scroll_${pathname}`, window.scrollY.toString());
+    };
+
+    // Слушаем скролл и сохраняем его
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, [pathname]); // Срабатывает каждый раз при переходе на новую страницу
+}
 
 export function Feed({ items, searchQuery, setSearchQuery }) {
   const filteredItems = items.filter((item) => {
@@ -16,6 +45,8 @@ export function Feed({ items, searchQuery, setSearchQuery }) {
   const toggleDevModal = () => {
     setIsDevModalOpen(!isDevModalOpen);
   };
+
+  useScrollMemory();
 
   return (
     <div className="p-4 mt-0 pt-0">
@@ -53,9 +84,14 @@ export function Feed({ items, searchQuery, setSearchQuery }) {
       </div>
 
       {isDevModalOpen && (
-        <div className="fixed inset-0 z-50  bg-black/50 backdrop-blur-sm" onClick={toggleDevModal}>
+        <div
+          className="fixed inset-0 z-50  bg-black/50 backdrop-blur-sm"
+          onClick={toggleDevModal}
+        >
           <div className="modal-content" onClick={(e) => e.stopPropagation()}>
-            <button className="close-button" onClick={toggleDevModal}>×</button>
+            <button className="close-button" onClick={toggleDevModal}>
+              ×
+            </button>
             <Developer CloseFunc={toggleDevModal} />
           </div>
         </div>

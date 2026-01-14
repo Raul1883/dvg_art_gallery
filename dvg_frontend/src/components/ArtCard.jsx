@@ -4,7 +4,7 @@ export function ArtCard({ data }) {
   return (
     <Link 
       to={`/pin/${data.id}`} 
-      className="block w-full mb-4 break-inside-avoid group"
+      className="block w-full break-inside-avoid group"
     >
       <div className="relative overflow-hidden rounded-2xl transition-all duration-300">
         {/* Превью изображения */}

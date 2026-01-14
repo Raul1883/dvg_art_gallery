@@ -1,12 +1,8 @@
+import { Link } from "react-router-dom";
 import { ArtCard } from "./ArtCard";
-import Masonry from "react-masonry-css";
 import { FindLine } from "./FindLine";
-
-const breakpointColumns = {
-  default: 5,
-  1100: 3,
-  700: 2,
-};
+import { useState, useEffect } from "react";
+import { Developer } from "./Developer";
 
 export function Feed({ items, searchQuery, setSearchQuery }) {
   const filteredItems = items.filter((item) => {
@@ -15,23 +11,24 @@ export function Feed({ items, searchQuery, setSearchQuery }) {
     return content.includes(searchQuery.toLowerCase());
   });
 
+  const [isDevModalOpen, setIsDevModalOpen] = useState(false);
+
+  const toggleDevModal = () => {
+    setIsDevModalOpen(!isDevModalOpen);
+  };
+
   return (
     <div className="p-4 mt-0 pt-0">
-      {/* Передаем функцию изменения текста в компонент строки */}
       <FindLine onSearchChange={setSearchQuery} searchValue={searchQuery} />
-
       {filteredItems.length > 0 ? (
-        <Masonry
-          breakpointCols={breakpointColumns}
-          className="flex w-auto -ml-4"
-          columnClassName="pl-4 bg-clip-padding"
-        >
+        <div className="columns-1 sm:columns-2 md:columns-3 lg:columns-4 gap-2 space-y-4">
           {filteredItems.map((item) => (
-            <ArtCard key={item.id} data={item} />
+            <div key={item.id} className="break-inside-avoid">
+              <ArtCard data={item} />
+            </div>
           ))}
-        </Masonry>
+        </div>
       ) : (
-        /* Заглушка, если ничего не нашли */
         <div className="flex flex-col items-center justify-center py-20">
           <p className="text-zinc-500 dark:text-zinc-400 text-lg">
             По запросу <span className="font-bold">"{searchQuery}"</span> ничего
@@ -47,13 +44,22 @@ export function Feed({ items, searchQuery, setSearchQuery }) {
       )}
 
       <div className="flex justify-center pb-4">
-        <a
-          href="https://t.me/uskvur"
+        <button
+          onClick={toggleDevModal}
           className="text-zinc-400 dark:text-zinc-300"
         >
           dev by raul
-        </a>
+        </button>
       </div>
+
+      {isDevModalOpen && (
+        <div className="fixed inset-0 z-50  bg-black/50 backdrop-blur-sm" onClick={toggleDevModal}>
+          <div className="modal-content" onClick={(e) => e.stopPropagation()}>
+            <button className="close-button" onClick={toggleDevModal}>×</button>
+            <Developer CloseFunc={toggleDevModal} />
+          </div>
+        </div>
+      )}
     </div>
   );
 }

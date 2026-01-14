@@ -13,7 +13,7 @@ return(
             </p>
 
             <div className="flex items-center pt-4">
-              <a href={item.author_link}>
+              <a href={item.author_link} target="_blank">
               <img
                 src={`./content/${item.id}/${item.assets.avatar}`}
                 className="w-8 h-8 rounded-full object-cover mr-3"
@@ -21,10 +21,10 @@ return(
               </a>
               <div className="overflow-hidden">
                 <h2 className="text-xs font-bold text-gray-900 dark:text-white truncate">
-                  <a href={item.author_link}>{item.author}</a>
+                  <a href={item.author_link} target="_blank">{item.author}</a>
                 </h2>
                 <p className="text-[9px] uppercase tracking-tighter text-gray-400">
-                  <a href={item.author_link}>Автор контента</a>
+                  <a href={item.author_link} target="_blank">Автор контента</a>
                 </p>
               </div>
             </div>

@@ -44,3 +44,24 @@
 .PhotoView-Slider__BannerWrap {
   display: none !important;
 }
+
+.no-scrollbar {
+  height: 200px;
+  width: 350px;
+  background-color: #3c3c3c;
+  overflow-y: auto;
+  
+  /* hide scrollbar for IE, Edge and Firefox */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* hide scrollbar for chrome, safari and opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar p {
+  color: #fff;
+  padding: 20px;
+}

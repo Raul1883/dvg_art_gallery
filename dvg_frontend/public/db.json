@@ -1,6 +1,6 @@
 [
   {
-    "id": "afa0ba68-3499-4293-8880-c70882d50e93",
+    "id": "f90cbe5c-835a-46e7-a1a4-f6c1f250e8b8",
     "image_name": "ultimate gamblecore",
     "description": "99,9%% игроков КВИТАЮТ перед тем как УДАРИТЬ ЭТО БОЛЬШОЙ",
     "author": "11gnat",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "id": "f954fe6a-93e9-4e4c-8d3b-51f63f58f620",
+    "id": "5f528a5b-225e-491e-a26a-18efa9da81da",
     "image_name": "Cassette Futurism",
     "description": "",
     "author": "3Lobite",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "id": "aac9bd1a-ba33-4d1c-840b-731164492aad",
+    "id": "8b819287-f468-4eed-b4ad-e2a33419e116",
     "image_name": "Pwgd lo-fi art aesthetic",
     "description": "Лофай это типа шип лололошки и вайфая",
     "author": "afma",
@@ -76,7 +76,7 @@
     }
   },
   {
-    "id": "bacf2374-eb45-4dd9-a383-52f5e737f85f",
+    "id": "9527d6c6-494c-4cee-8053-95f586190063",
     "image_name": "Pwgood bukwalno doomer aesthetic",
     "description": "Я живу в той квартире с розовым окном",
     "author": "afma",
@@ -100,7 +100,7 @@
     }
   },
   {
-    "id": "c31ff481-846b-42ed-bdab-20f72ceeeb3d",
+    "id": "3a4b53e6-d746-4f78-bdec-32d1b13c50f4",
     "image_name": "poolcore",
     "description": "вечное спокойствие",
     "author": "archest",
@@ -124,7 +124,7 @@
     }
   },
   {
-    "id": "688b2f08-3ac0-4bc6-8f55-53cca21ccd63",
+    "id": "eedf0103-db4d-43bd-9495-1ffd3df75574",
     "image_name": "pwgood mushroomcore art",
     "description": "Сначала одеваются так, а потом жалуются, что парни влюбляются в них из-за стокгольмского синдрома и страха перед хтонической сущностью леса и её рифмой с женским началом",
     "author": "AstroidA",
@@ -158,7 +158,7 @@
     }
   },
   {
-    "id": "01b24409-f77c-4710-894c-7011fbacfc15",
+    "id": "9811d734-c967-4547-8649-c1eff9c0ea19",
     "image_name": "Technocore",
     "description": "",
     "author": "Bjilka",
@@ -182,7 +182,7 @@
     }
   },
   {
-    "id": "bb3b7d93-c5cc-448d-aed7-e238683392fb",
+    "id": "d97527b8-2c6b-441e-9ca5-42e0724bb3ed",
     "image_name": "PWGood Low Poly PS1 art",
     "description": "Его слова - словно пули из травмата, рифмы режут ухо, как топор психопата",
     "author": "Bochmak",
@@ -212,9 +212,9 @@
     }
   },
   {
-    "id": "e3f00a74-3fea-47f8-afe0-2ee20f1449ce",
-    "image_name": "★PWGOOD★BIMBOCORE★",
-    "description": "Boring b*thes hate on me to feel better about themselves",
+    "id": "443b3a85-67ce-4712-9d8f-35a6da334a19",
+    "image_name": "☠️PWGOOD☠️EMO☠",
+    "description": "Я не могу снять джинсы",
     "author": "dosochka_mhe",
     "author_link": "https://t.me/dschkmhhhhh",
     "assets": {
@@ -238,7 +238,7 @@
     }
   },
   {
-    "id": "a6664f1d-496d-4fff-aca5-57d0d68b38da",
+    "id": "9aa02a89-73d6-4c4e-9e46-9d15516eee46",
     "image_name": "★PWGOOD★BIMBOCORE★",
     "description": "Boring b*thes hate on me to feel better about themselves",
     "author": "dosochka_mhe",
@@ -265,7 +265,36 @@
     }
   },
   {
-    "id": "5f8ad285-de3d-4a7a-ad9e-31f7a604c8ad",
+    "id": "3f3d2d7c-3530-4e72-a24b-38eb9f171c27",
+    "image_name": "silver core",
+    "description": "Жили-были два оборотня, они любили друг друга и жили долго и счастливо, и умерли в один день - в день серебряной свадьбы.",
+    "author": "Doveca",
+    "author_link": "https://t.me/dovecaisdrawing",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp"
+      ]
+    }
+  },
+  {
+    "id": "02f2c7ec-796f-4ba8-abc7-452886d1c52d",
     "image_name": "",
     "description": "",
     "author": "Frayn",
@@ -289,7 +318,7 @@
     }
   },
   {
-    "id": "687b9786-39f3-45a0-b027-2a7f18644d0d",
+    "id": "5c6df95c-e4ab-4984-a790-2e4f76c6458d",
     "image_name": "PWgood angelcore",
     "description": "",
     "author": "frog.",
@@ -313,7 +342,7 @@
     }
   },
   {
-    "id": "65c5a5ac-d242-4d23-9d5e-99c193790605",
+    "id": "1165637d-cd7e-4242-ae1e-3c7e3ec17b84",
     "image_name": "Industrial core",
     "description": "Ходили слухи среди работников, что трубы словно дышат в этом месте",
     "author": "Hersh",
@@ -338,7 +367,7 @@
     }
   },
   {
-    "id": "8f89a998-5106-45ad-ad3b-09b652953771",
+    "id": "d20dfbca-8047-49e0-9d5a-f7ed6d619e22",
     "image_name": "CYBERCORE",
     "description": "Как вы думаете каким будет будущее? Захватит ли его капитализм?",
     "author": "JessyJ40",
@@ -363,7 +392,7 @@
     }
   },
   {
-    "id": "9e6cf1a7-71c6-4693-afd1-dcde698aea5d",
+    "id": "12705a88-096d-4276-98b1-44c3ee118ea8",
     "image_name": "PWGood Spacecore",
     "description": "Стань моим космосом",
     "author": "Kaminoka",
@@ -372,11 +401,48 @@
       "main": "main.webp",
       "thumb": "thumb.webp",
       "avatar": "avatar.webp",
-      "refs": []
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp"
+      ]
     }
   },
   {
-    "id": "06858961-da76-4577-aea8-6173b740285a",
+    "id": "f0bce95c-f7ca-43f1-a6b2-fc8c0d629b13",
+    "image_name": "Happycore",
+    "description": "=)",
+    "author": "KamyWek",
+    "author_link": "https://t.me/exaddd",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp"
+      ]
+    }
+  },
+  {
+    "id": "4885a359-86ac-4c48-8537-2e609398acf4",
     "image_name": "medicalcore",
     "description": "Шприцы, таблетки, медикаменты 💀",
     "author": "KamyWek",
@@ -401,7 +467,7 @@
     }
   },
   {
-    "id": "e432b5b6-1dd5-4103-8270-f2589ecd5f5e",
+    "id": "413cf07d-244f-4524-97b7-4193bcfbd0d1",
     "image_name": "Pwgood morute core",
     "description": "be good be gentle",
     "author": "kaykee",
@@ -414,7 +480,7 @@
     }
   },
   {
-    "id": "d1ebfdae-eb39-4184-aee6-4c14cc89619c",
+    "id": "91d87981-c64d-4ef8-9f4f-9d4b9372fd0b",
     "image_name": "Кубизм",
     "description": "перед просмотром советую зарядить себе по голове чем-то тяжёлым",
     "author": "Keers",
@@ -438,7 +504,7 @@
     }
   },
   {
-    "id": "4f3016d5-629b-49ec-b0df-bc93c69461a7",
+    "id": "46d10e2f-bb33-427f-ad5a-6d225ab3fc7f",
     "image_name": "pwgood berezacore art",
     "description": "пока смотришь на них они смотрят на тебя",
     "author": "ketchanimator",
@@ -471,7 +537,7 @@
     }
   },
   {
-    "id": "7ff42094-7dc2-413b-b7ab-72036d63b8aa",
+    "id": "82db8432-e958-45e2-aeec-f26b208cc499",
     "image_name": "religioncore",
     "description": "Не произноси имени Господа, Бога твоего, напрасно, ибо Господь не оставит без наказания того, кто произносит имя Его напрасно.",
     "author": "kilowhatt",
@@ -500,7 +566,7 @@
     }
   },
   {
-    "id": "d96c8cf8-c93a-4ca6-90cf-dd29e443fb09",
+    "id": "db19d095-439d-451f-8a24-40363c6b7cc7",
     "image_name": "2000s animecore",
     "description": "Пвгуд анимел",
     "author": "Lceenta",
@@ -525,7 +591,41 @@
     }
   },
   {
-    "id": "c78d7986-cf04-466a-a048-afa3ebf4328c",
+    "id": "dde36b26-6abd-4bbf-9dd0-94ed2ecc777f",
+    "image_name": "DREAMCORE",
+    "description": "обернись (◕‿◕)",
+    "author": "LenkaLAL | Польша",
+    "author_link": "https://t.me/lenka_lal",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp",
+        "ref_15.webp",
+        "ref_16.webp",
+        "ref_17.webp",
+        "ref_18.webp",
+        "ref_19.webp"
+      ]
+    }
+  },
+  {
+    "id": "9b750bc7-792b-4697-a06e-e0bd08039747",
     "image_name": "Pwgood witchcore art",
     "description": "Witchcore - эстетика, сосредоточенная на темах колдовства, обрядов, сбора трав, изготовления магических атрибутов и зелий. Превращать всех в жаб вполне witchкорно!",
     "author": "Lentillnz (Линт)",
@@ -551,7 +651,7 @@
     }
   },
   {
-    "id": "256b0f63-a7c6-4e3a-93b6-8b6400b79132",
+    "id": "8cd795f6-488a-4c12-9255-3367885b22a6",
     "image_name": "CANDYCORE",
     "description": "это моя конфета!!",
     "author": "LPPDM",
@@ -577,7 +677,7 @@
     }
   },
   {
-    "id": "f2ba6d07-ddd5-4b49-b00f-ec73ccbd1dbd",
+    "id": "7fe108bf-3b10-4e6c-ab22-8bb6084e453a",
     "image_name": "Нуарновое",
     "description": "",
     "author": "mabr0n",
@@ -606,7 +706,7 @@
     }
   },
   {
-    "id": "9c1f1ca3-1ddf-473b-8991-d2b4dc3fa8b9",
+    "id": "92e5be85-1ecb-4fed-92d9-6497259fade4",
     "image_name": "silly goober",
     "description": "i believe that they are among us",
     "author": "Miruka Wai",
@@ -640,7 +740,7 @@
     }
   },
   {
-    "id": "40772252-1918-41dc-9c52-0637225492ad",
+    "id": "d1156610-787c-496a-bc25-2f3aa2ddfd68",
     "image_name": "PWGOOD SIXTH DIMENSION CORE",
     "description": "я з⊠аю чт⊿ в₡ё вз△имосвяза☐о пр⊙сто не мΘгу докаΣать",
     "author": "m4nch1",
@@ -667,7 +767,7 @@
     }
   },
   {
-    "id": "31e7a613-4e8b-4c08-975d-344115d2f8b7",
+    "id": "0b34b62b-7d3c-427a-a89c-88ca3ff85f97",
     "image_name": "PWGood SCENEkid 2010-е",
     "description": "полное безумие, абсолютное сдвг",
     "author": "Neeemah",
@@ -692,7 +792,7 @@
     }
   },
   {
-    "id": "78739e20-8fb2-4ec4-b426-634bb4ef15ce",
+    "id": "7c1e44c4-35b8-4364-a4c8-6a5be9a854c2",
     "image_name": "CORECORE CORECORE",
     "description": "Если у вас всё хорошо, тогда зачем вам скафандры с розовым стеклом?",
     "author": "PozitiSofa",
@@ -716,7 +816,7 @@
     }
   },
   {
-    "id": "b24b657e-0d98-45cc-8ba8-5ab02ac24bdb",
+    "id": "8ae69f9f-3763-4cec-8c4c-448eb7d33e78",
     "image_name": "MEATCORE YUMMIE",
     "description": "стримеры как морковь. когда их ешь они умирают",
     "author": "PozitiSofa",
@@ -740,7 +840,7 @@
     }
   },
   {
-    "id": "a44029da-d848-482c-ab7c-c3d2a2dc5c72",
+    "id": "202cb941-b1b1-4d27-969e-9dd4dda0128b",
     "image_name": "SUPER EPIC MLG CORE PWGOOD MINECRAFT EDIT",
     "description": "вы еще не умерли от передоза мемами?",
     "author": "Qwainett",
@@ -764,7 +864,7 @@
     }
   },
   {
-    "id": "17af8297-ae89-4ebb-a329-6c56272087aa",
+    "id": "f7f6ff0a-5aa4-4eed-933a-d2b0f4148997",
     "image_name": "immortality core art",
     "description": "Бессмертие здесь дышит сквозь кости и тени — сердце, что отказывается замолкнуть, удерживает мир между жизнью и забвением.",
     "author": "artsosamuzikbaby",
@@ -789,7 +889,7 @@
     }
   },
   {
-    "id": "644b41c5-b0f7-475d-b621-c3748a7fe904",
+    "id": "09b1810a-10bd-4f06-9d0d-f5baed3a12bf",
     "image_name": "punkcore + darkurbancore",
     "description": "",
     "author": "Stamp",
@@ -815,7 +915,7 @@
     }
   },
   {
-    "id": "72aa700d-77ff-4d64-9dab-444947bfb0dc",
+    "id": "55905ad5-6e25-44fe-a4a9-3ed4a4e445bd",
     "image_name": "WebCore",
     "description": "Возможно не стоило включать старый компьютер ?",
     "author": "Teakstear",
@@ -840,7 +940,7 @@
     }
   },
   {
-    "id": "4ed55bac-dea8-4701-afd8-8da5ef6c6ee3",
+    "id": "b04dee1c-b59d-4062-9c08-b0bc8fcf5fb7",
     "image_name": "pwgood vaporwave art",
     "description": "осколки цифровой утопии",
     "author": "Wellfy",
@@ -864,7 +964,7 @@
     }
   },
   {
-    "id": "420faed4-0090-4913-a2b4-ed325f28c5e7",
+    "id": "cfb25286-ca63-433c-ab2b-60e4991502e0",
     "image_name": "в детстве привели в сбербанк",
     "description": "technozen. если ты не хочешь трогать траву - трава потрогает тебя",
     "author": "west",
@@ -893,7 +993,7 @@
     }
   },
   {
-    "id": "b1287b33-1ded-45cd-bc76-53bda65ea7f0",
+    "id": "9941ddc7-7a9c-43af-81cc-933f40f94ae0",
     "image_name": "steampunk",
     "description": "второе видео про потоп мое любимое",
     "author": "Rain",
@@ -912,12 +1012,52 @@
         "ref_6.webp",
         "ref_7.webp",
         "ref_8.webp",
-        "ref_9.webp"
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp",
+        "ref_15.webp",
+        "ref_16.webp",
+        "ref_17.webp",
+        "ref_18.webp",
+        "ref_19.webp",
+        "ref_20.webp"
       ]
     }
   },
   {
-    "id": "307f486a-ae68-4284-9172-3c520cd69abd",
+    "id": "3b8f20b7-fc36-41ef-85ae-bc528071a0f7",
+    "image_name": "Ancient Egypt aesthetic",
+    "description": "",
+    "author": "жемчужная пыль",
+    "author_link": "https://t.me/lucas_yoy",
+    "assets": {
+      "main": "main.webp",
+      "thumb": "thumb.webp",
+      "avatar": "avatar.webp",
+      "refs": [
+        "ref_0.webp",
+        "ref_1.webp",
+        "ref_2.webp",
+        "ref_3.webp",
+        "ref_4.webp",
+        "ref_5.webp",
+        "ref_6.webp",
+        "ref_7.webp",
+        "ref_8.webp",
+        "ref_9.webp",
+        "ref_10.webp",
+        "ref_11.webp",
+        "ref_12.webp",
+        "ref_13.webp",
+        "ref_14.webp"
+      ]
+    }
+  },
+  {
+    "id": "ebd29877-5df9-4ffd-8430-15a0390e46fb",
     "image_name": "PWGood Spacecore",
     "description": "К звёздам из бездны",
     "author": "жемчужная пыль",
@@ -947,7 +1087,7 @@
     }
   },
   {
-    "id": "7e753649-ead8-493d-8243-38da6bcba540",
+    "id": "91206786-fc85-4358-985f-8dad97b358a6",
     "image_name": "Frutiger PWMetro",
     "description": "БРОСАЙ РАБОТУ СТРАНЕ НУЖНЫ ДИДЖЕИ",
     "author": "наув",
@@ -974,7 +1114,7 @@
     }
   },
   {
-    "id": "d2474e53-5560-475d-8b71-6407c0ea36c9",
+    "id": "2e246bb1-8d25-4004-b58c-7262fe451c6c",
     "image_name": "PWGYARUO/GYARUGOOD",
     "description": "пвгуд гяру jfashion гяруо aestetic core 2000s 90s magazine",
     "author": "Chay0ch",
@@ -1004,7 +1144,7 @@
     }
   },
   {
-    "id": "0f06f74c-d756-4027-ada9-6aba40272373",
+    "id": "63b62b16-260e-46a3-b5a7-c74e47c8f8ac",
     "image_name": "Frutiger Aero",
     "description": "Ready go back to 2000?",
     "author": "JessyJ40",
